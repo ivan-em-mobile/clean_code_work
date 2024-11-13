@@ -94,7 +94,10 @@ article {
     padding: 9px;
 }
 
-p {}
+p {
+    text-indent: 17px;
+    /* white-space: nowrap; */
+}
 
 img {}
 
